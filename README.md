@@ -1,4 +1,4 @@
-<h4 align="center">Hi! my name is Isaac and i'm a student of information security.🧑🏻‍💻<br><br>I'm currently work on @IT.ALL as a helpdesk support analyst.<br><br>In the future I think about entering the cybersecurity area.</h4>
+<h4 align="center">Hi! my name is Isaac and i'm a student of information security.🧑🏻‍💻<br><br>I'm currently work on @IT.ALL as a helpdesk support analyst.<br><br>In the future I think about entering the cybersecurity area.<br><br>From Brazil, 21 years old i discover that i really love Technologies<br><br>I'm currently working on Python projects for find and prevent vulnerabilities in websites.</h4> 
 
 ###
 
