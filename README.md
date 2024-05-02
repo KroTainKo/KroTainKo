@@ -1,9 +1,7 @@
 # Hello, I'm Isaac
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/isaacmoreira?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a student with a profound interest in technology and a dedication to solving complex problems. More interested in problems that can't be solve easily. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
